@@ -1,0 +1,2 @@
+serviceClass: isw2.client.UseCaseService
+path: A6BADDEBF0DC71DBE180D6729FD19135.gwt.rpc

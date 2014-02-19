@@ -1,0 +1,2 @@
+serviceClass: isw2.client.GreetingService
+path: B271F18E1ACD94C59A5FDE5E707B2EB3.gwt.rpc
